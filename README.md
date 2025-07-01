@@ -4,20 +4,9 @@ Hi there! I'm **Kartik Patil**, an **Electronics Engineering undergrad at IIT Kh
 
 ---<!-- GitHub Profile Stats for kmzpatil -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&count_private=true" alt="kmzpatil's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kmzpatil" alt="GitHub Streak" />
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=gruvbox" alt="Trophy" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=kmzpatil" alt="Profile Views" />
-</p>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&count_private=true" alt="kmzpatil's GitHub stats" />
+ 
 ---
 
 ### 📝 Recent Activity
