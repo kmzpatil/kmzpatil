@@ -2,7 +2,9 @@
 
 Hi there! I'm **Kartik Patil**, an **Electronics Engineering undergrad at IIT Kharagpur**, blending core engineering, software development, AI/ML, and quantitative finance. I thrive under pressure, chase clarity through code, and aim to build impactful systems across multiple domains.
 
----<!-- GitHub Profile Stats for kmzpatil -->
+---
+
+<!-- GitHub Profile Stats for kmzpatil -->
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&count_private=true" alt="kmzpatil's GitHub stats" />
