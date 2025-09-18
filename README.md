@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kartik+Patil+%F0%9F%91%8B;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+
 # 💫 About Me
 
 I'm an enthusiastic learner and explorer who loves building, experimenting, and solving real-world problems through technology and innovation. I enjoy diving into new concepts, collaborating with like-minded people, and pushing myself out of my comfort zone to grow personally and professionally.
@@ -9,9 +13,15 @@ I'm an enthusiastic learner and explorer who loves building, experimenting, and 
 💬 **Ask Me About:** C++, Python, AI/ML basics, and productivity hacks  
 ⚡ **Fun Fact:** I tend to work best under pressure and love gamifying tasks to stay motivated
 
-## 🌐 Socials
+## 🌐 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patil-957834201) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmzpatil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kmzpatil)
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -53,6 +63,13 @@ I'm an enthusiastic learner and explorer who loves building, experimenting, and 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
+## 🚀 Current Focus
+
+- 🔬 **Research:** Exploring cutting-edge AI/ML algorithms and their real-world applications
+- 💻 **Development:** Building full-stack applications with modern frameworks
+- 📈 **Learning:** Diving deep into quantitative finance and algorithmic trading
+- 🏗️ **Projects:** Contributing to open-source initiatives and innovative tech solutions
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,22 +90,25 @@ I'm an enthusiastic learner and explorer who loves building, experimenting, and 
   <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=solarized-dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kmzpatil&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
 ---
 
 <div align="center">
+  
+### 💭 Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+### 📈 Contribution Graph
+  <img src="https://github-contributor-stats.vercel.app/api?username=kmzpatil&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+### 👀 Profile Views
   <img src="https://visitcount.itsvg.in/api?id=kmzpatil&icon=0&color=0" alt="Visit Count" />
+  
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀*
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
