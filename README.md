@@ -1,106 +1,27 @@
-# ✨ Kartik Patil – Engineer | Developer | AI Explorer
-
-Hi there! I'm **Kartik Patil**, an **Electronics Engineering undergrad at IIT Kharagpur**, blending core engineering, software development, AI/ML, and quantitative finance. I thrive under pressure, chase clarity through code, and aim to build impactful systems across multiple domains.
-
----
-
-<!-- GitHub Profile Stats for kmzpatil -->
+# 💫 About Me:
+I’m an enthusiastic learner and explorer who loves building, experimenting, and solving real-world problems through technology and innovation. I enjoy diving into new concepts, collaborating with like-minded people, and pushing myself out of my comfort zone to grow personally and professionally.<br><br>🔭 I’m currently working on projects related to AI/ML, DSA, and development.<br>👯 I’m looking to collaborate on open-source contributions, innovative tech projects, and problem-solving initiatives.<br>🤝 I’m looking for help with mastering advanced algorithms, ML applications, and system-level optimizations.<br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, Quantitative Finance, and Development tools.<br>💬 Ask me about C++, Python, AI/ML basics, and productivity hacks.<br>⚡ Fun fact: I tend to work best under pressure and love gamifying tasks to stay motivated.
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&count_private=true" alt="kmzpatil's GitHub stats" />
- 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patil-957834201) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmzpatil@gmail.com) 
 
-### 📝 Recent Activity
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmzpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kmzpatil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=solarized-dark&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Instructions for Recent Activity: 
-To enable the Recent Activity section, follow the instructions at:
-https://github.com/Readme-Workflows/recent-activity
--->
----
-## 🚀 What I’m Doing
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍🎓 Pursuing B.Tech in Electronics Engineering @ IIT Kharagpur
-- 🤖 Learning & building in **Artificial Intelligence, Machine Learning**, and **Data Analysis**
-- 🧠 Exploring **Quantitative Finance**, modeling, and time series-based decision systems
-- 🛠️ Practicing **Data Structures & Algorithms (DSA)** in **C++** and **Python**
-- 💻 Gaining deep proficiency in **STL, OOP, and modern Pythonic tools**
-- 📊 Developing core understanding in **Linear & Logistic Regression, SVMs, Decision Trees, Regularization**, etc.
-- 🌐 Exploring **WSL + Ubuntu**, **Kali Linux**, and **Python-based development tools**
-- 📈 Working on **Fourier analysis, transforms, and convolution theory** from scratch
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kmzpatil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kmzpatil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Key Interests
-
-- 📚 **Machine Learning** (From theory to TensorFlow)
-- 📉 **Quantitative Finance** (Quant models, algorithmic trading)
-- ⚙️ **Software Development** (Fast, readable, scalable code)
-- 🔐 **Cybersecurity & Linux Tools** (WSL, Kali, ethical hacking basics)
-- 🧮 **Mathematics** (Functional analysis, metric spaces, probability)
-- 🔍 **Data Analysis** (EDA, feature engineering, real-world datasets)
-
----
-
-## 🛠 Tech Stack
-
-```txt
-Languages     → C++, Python, MATLAB, GNU Octave, Julia (basic), JavaScript (beginner)
-Frameworks    → scikit-learn, TensorFlow, PyTorch (learning), CatBoost, LightGBM
-Tools & OS    → Git, GitHub, VS Code, WSL, Linux, Kali Linux
-Libraries     → NumPy, Pandas, Matplotlib, Seaborn, OpenCV
-ML Techniques → Regression, Classification, Regularization, Dropout, Bagging/Boosting
-Maths Core    → Fourier Series, Sampling, Hilbert Space, Convolution, Uncertainty Principle
-```
-
----
-
-## 📌 Noteworthy Projects & Activities
-
-- 🧠 **ML Intern at American Express** *(Blog post coming soon!)*
-- 📚 Contributed to **KDAG Resources** – ML article on *Dropout & MC-Dropout*
-- 🧩 Led societies like:
-  - ✈️ **Aerial Robotics**, building control & path systems
-  - 📊 **Quant Club**, focusing on modeling & trading logic
-  - 🌐 **Society Communicates**, organized Global Model United Nations
-- 💡 Constantly pushing limits with personal research & cross-disciplinary explorations
-
----
-
-## 🧠 Current Learning Roadmap
-
-| Domain           | Focus Area                                                  |
-| ---------------- | ----------------------------------------------------------- |
-| 📈 ML            | Regression, Decision Trees, Ensemble, SVM, Naive Bayes      |
-| 📉 Quant Finance | Basics of risk modeling, algo strategies, asset pricing     |
-| 🧮 Math & Signal | Metric spaces, functional analysis, Hilbert space           |
-| ⚙️ Dev           | WSL, Kali Linux, .env management, web dev, API integrations |
-| 🔍 DSA           | Competitive C++ STL, recursion, trees, graphs               |
-
----
-
-## 🧠 I Believe In:
-
-> 💬 **“Clarity through curiosity. Impact through code.”**
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📧 Email: [kartik.yourmail@example.com](mailto:kartik.yourmail@example.com)
-- 🌍 Portfolio: (Coming soon…)
-
----
-
-<!-- 
-Add GitHub stats, activity graphs, or badges below as you wish!
-
-[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical)](https://github.com/kmzpatil)
--->
-
-Thanks for visiting! ⭐️
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
