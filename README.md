@@ -42,14 +42,3 @@ I am a sophomore studying **Electronics & Electrical Communication Engineering**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/kmzpatil">
-    <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical&count_private=true" height="160" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/kmzpatil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=radical" height="160" alt="languages graph" />
-  </a>
-</div>
