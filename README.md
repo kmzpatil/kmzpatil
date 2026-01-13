@@ -44,7 +44,12 @@ I am a sophomore studying **Electronics & Electrical Communication Engineering**
 ---
 
 ## 📈 GitHub Stats
-
-| **Global Stats** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=minimal&hide_border=false" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=minimal&hide_border=false" width="400" /> |
+<div align="center">
+  <a href="https://github.com/kmzpatil">
+    <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical&count_private=true" height="160" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/kmzpatil">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=radical" height="160" alt="languages graph" />
+  </a>
+</div>
