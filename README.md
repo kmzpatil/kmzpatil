@@ -1,95 +1,56 @@
-<div align="center">
- 
-  <h1 align="center">Hi there, I'm Kartik Mahendra Patil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# Kartik Mahendra Patil
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=ECE+Undergrad+%40+IIT+KGP;Full+Stack+Developer+(Next.js+%2B+React);AI%2FML+Enthusiast+(LangChain+%2B+Ollama);Competitive+Programmer+(Codeforces+1250);Building+Scalable+Tech+Solutions" alt="Typing SVG" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patil-957834201)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmzpatil@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kresol)
 
-  <br/>
+### 👨‍💻 ECE Undergrad @ IIT Kharagpur | Full Stack & AI Engineer
 
-  <a href="https://www.linkedin.com/in/kartik-patil-957834201/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kmzpatil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/kresol">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+I am a sophomore studying **Electronics & Electrical Communication Engineering** with a deep focus on **Applied AI** and **Scalable Web Systems**. Unlike typical developers, I bridge the gap between low-level hardware logic and high-level multi-agent software architectures.
 
-</div>
-
-<br/>
-
-## ⚡ About Me
-
-- 🔭 I’m currently studying **Electronics & Electrical Communication Engineering** at **IIT Kharagpur**.
-- 💻 I love bridging the gap between **Hardware (ECE)** and **Software (AI/Web)**.
-- 🌱 I’m currently exploring **Multi-Agent Systems (LangGraph)** and **Pharmaceutical Intelligence**.
-- 🏆 **Competitive Programming:** Rated **Pupil (1250)** on Codeforces (Handle: `kresol`).
-- 🧠 **Academic Flex:** Top **0.46%** in JEE Main & Top **1.81%** in JEE Advanced (Nationwide).
+**Key Highlights:**
+* 🏆 **Top 0.46%** in JEE Main & **Top 1.81%** in JEE Advanced (Nationwide).
+* 🧠 **Codeforces Pupil** (Max Rating: 1250).
+* 🤖 Building **Multi-Agent Systems** with LangGraph & Ollama.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Projects
 
-<div align="center">
-
-| **Domain** | **Technologies** |
-|:---:|:---|
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **💊 Gloser AI** | **Pharmaceutical Intelligence Platform**<br>A multi-agent AI system that processes natural language queries to analyze patents, clinical trials, and trade data. Features real-time markdown rendering and chart visualization. | `Next.js` `LangGraph` `Ollama` `Python` `Flask` |
+| **🌐 GMUN 2026** | **Official Event Platform**<br>The official digital interface for the Global Model United Nations at IIT KGP. Handled **300+** delegate registrations seamlessly with a mobile-first responsive design. | `React.js` `Node.js` `CSS3` |
+| **🚚 Bhavya Haulage** | **Logistics Marketing Site**<br>A high-performance landing page for a logistics firm featuring sticky navbars, lazy loading, and 60fps animations for optimal UX. | `React` `Vite` `Tailwind` `Framer Motion` |
+| **🩺 Cancer Detection** | **Predictive ML Model**<br>Secured **1st Runner-up** in the KDAG Machine Learning Hackathon. Developed a predictive model to identify cancer markers with high accuracy using patient data. | `Python` `Scikit-Learn` `Pandas` `NumPy` |
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Arsenal
 
-### 💊 **Gloser AI – Pharmaceutical Intelligence Platform**
-> *Full Stack AI System with Multi-Agent Architecture*
-- **Tech:** Next.js 16, Python, Flask, LangGraph, Ollama (Mistral LLM).
-- **Features:** Analyzes 132+ patent records & clinical trials using custom AI agents. Real-time markdown rendering & Chart.js visualizations.
+#### **Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🌐 **Global Model United Nations (GMUN) Website**
-> *Official Conference Platform for IIT KGP*
-- **Tech:** React.js, JavaScript, Mobile-First Design.
-- **Impact:** Handled **300+ delegate registrations** seamlessly.
+#### **AI & Data Science**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🚚 **Bhavya Haulage Services**
-> *Modern Logistics Marketing Platform*
-- **Tech:** React.js, Vite, Framer Motion, Tailwind CSS.
-- **Features:** Sticky backdrop-blur navbar, lazy loading, and 60fps animations.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmzpatil&theme=radical&hide_border=true" alt="streak stats" />
-</div>
+#### **Web & Tools**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
-  
-  ### "Code is like humor. When you have to explain it, it’s bad." 
-  
-  <i>Let's Connect!</i>
-  <br>
-  <a href="https://linkedin.com/in/kartik-patil-957834201"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-  <a href="mailto:kmzpatil@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-  <a href="https://github.com/kmzpatil"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
-  
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=minimal&hide_border=true" height="150" alt="langs" />
 </div>
