@@ -1,13 +1,13 @@
 <img src="main.svg"></img>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patil-957834201)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmzpatil@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kresol)
 
 ### 👨‍💻 ECE Undergrad @ IIT Kharagpur | Full Stack & AI Engineer
 
 I am a sophomore studying **Electronics & Electrical Communication Engineering** with a deep focus on **Applied AI** and **Scalable Web Systems**. Unlike typical developers, I bridge the gap between low-level hardware logic and high-level multi-agent software architectures.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patil-957834201)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmzpatil@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kresol)
 ---
 
 ## 🚀 Projects
