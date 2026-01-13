@@ -8,11 +8,6 @@
 
 I am a sophomore studying **Electronics & Electrical Communication Engineering** with a deep focus on **Applied AI** and **Scalable Web Systems**. Unlike typical developers, I bridge the gap between low-level hardware logic and high-level multi-agent software architectures.
 
-**Key Highlights:**
-* 🏆 **Top 0.46%** in JEE Main & **Top 1.81%** in JEE Advanced (Nationwide).
-* 🧠 **Codeforces Pupil** (Max Rating: 1250).
-* 🤖 Building **Multi-Agent Systems** with LangGraph & Ollama.
-
 ---
 
 ## 🚀 Projects
@@ -50,7 +45,6 @@ I am a sophomore studying **Electronics & Electrical Communication Engineering**
 
 ## 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=minimal&hide_border=true" height="150" alt="langs" />
-</div>
+| **Global Stats** | **Most Used Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=minimal&hide_border=false" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=minimal&hide_border=false" width="400" /> |
