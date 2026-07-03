@@ -155,21 +155,23 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=2" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <!-- Replaced the broken official vercel app with the stable community instance -->
+  <img src="https://github-readme-stats.shion.dev/api?username=kmzpatil&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmzpatil&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kmzpatil&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kmzpatil&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
+
 
 <br/>
 
