@@ -155,11 +155,7 @@
 
 ## GitHub Analytics
 <div align="center">
-  <h3>🛠️ Core Tech Stack</h3>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,py,cpp,linux,arch&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://codeforces-readme-stats.vercel.app/api/profile?username=kresol&theme=radical&show_icons=true&hide_border=true" alt="Codeforces Stats" />
 </div>
 
 <br/>
