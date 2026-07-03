@@ -10,3 +10,9 @@ Topics rotate across: Low-Latency Systems, Competitive Programming, AI/Agents, Q
 Reviewed Uniswap V3 concentrated liquidity math and tick-based price range encoding.
 
 ---
+
+## July 03, 2026 — AI & Multi-Agent Systems
+
+Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
+
+---
