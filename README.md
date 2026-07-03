@@ -155,7 +155,9 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/profile?username=kresol&theme=radical&show_icons=true&hide_border=true" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/kresol">
+    <img src="https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
 </div>
 
 <br/>
