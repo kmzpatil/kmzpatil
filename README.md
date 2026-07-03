@@ -5,8 +5,12 @@
 <br/>
 
 <div align="center">
-  <h1>Kartik Mahendra Patil</h1>
-  <p><b>ECE Undergrad @ IIT Kharagpur</b></p>
+  <a href="https://github.com/kmzpatil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&height=50&lines=Kartik+Mahendra+Patil;ECE+Undergrad+%40+IIT+Kharagpur;Full+Stack+%26+AI+Engineer;Building+Scalable+Web+%26+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <p>
     Studying <b>Electronics & Electrical Communication Engineering</b> with a deep focus on <b>Applied AI</b> and <b>Scalable Web Systems</b>. I specialize in bridging the gap between low-level hardware logic and high-level multi-agent software architectures.
   </p>
@@ -22,24 +26,13 @@
 
 ## Technical Expertise
 
-**Languages:**  
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tailwind,vite,flask,pytorch,tensorflow,docker,git,html,css&perline=8" alt="Tech Stack Icons" />
+  </a>
+</div>
 
-**AI & Data Science:**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-
-**Web & Infrastructure:**  
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br/>
 
 ---
 
@@ -96,8 +89,20 @@ Secured **1st Runner-up** in the KDAG Machine Learning Hackathon. Developed a pr
 ## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmzpatil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmzpatil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmzpatil&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
