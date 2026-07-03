@@ -169,7 +169,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmzpatil&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Updated URL below to fix the broken Heroku link -->
+  <img src="https://streak-stats.demolab.com/?user=kmzpatil&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
