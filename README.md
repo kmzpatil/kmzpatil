@@ -155,7 +155,11 @@
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kmzpatil&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=2" alt="GitHub Trophies" />
+  <h3>🛠️ Core Tech Stack</h3>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,py,cpp,linux,arch&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
 <br/>
