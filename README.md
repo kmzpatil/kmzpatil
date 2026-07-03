@@ -119,20 +119,9 @@
 | **IMC Prosperity 4** | Global Rank 529, Country Rank 81 |
 | **Goldman Sachs India Hackathon 2026** | Quant: Rank 447, CS: Rank 584 |
 | **AMS Derive 2026** (Jane Street, QRT) | Rank 198 / 2,500 |
-| **KDAG ML Hackathon** | 1st Runner-up |
-| **Data Analytics General Championship** | Rank 1 - Gold Medal |
-| **Codeforces** | Expert - Max Rating 1620 |
 
 ---
 
-## Leadership
-
-**Governor** | Communique | Technology Students' Gymkhana, IIT KGP *(Apr 2026 - Present)*
-- Facilitated professional development for 500+ students via CV review drives and mock interviews
-- Led Software Team of 40+ members, directing digital outreach and 5+ promotional campaigns
-- Orchestrated GMUN 2026 Secretariat duties for 50+ members
-
----
 
 ## Open Source Repositories
 
