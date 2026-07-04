@@ -52,7 +52,7 @@ def section_header(number, title):
     return f"""
   <g class="fade d1 mono">
     <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">{number}</text>
-    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold">{title}</text>
+    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold" xml:space="preserve">{title}</text>
     <line class="draw d1" x1="{105 + len(title)*16}" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
   </g>
 """
