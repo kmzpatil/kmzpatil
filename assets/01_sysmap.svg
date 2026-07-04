@@ -36,7 +36,7 @@
   
   <g class="fade d1 mono">
     <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">01</text>
-    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold" xml:space="preserve">S Y S T E M   A R C H I T E C T U R E</text>
+    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold">S Y S T E M&#160;&#160;&#160;&#160;A R C H I T E C T U R E</text>
     <line class="draw d1" x1="697" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
   </g>
 <text class="mono rise d2" fill="var(--accent-glow)" x="40" y="120" font-size="12" font-weight="bold">LANGUAGES</text><text class="mono rise d2" fill="var(--text-main)" x="220" y="120" font-size="14" font-weight="normal">C++, Python, TypeScript, JavaScript</text><text class="mono rise d3" fill="var(--accent-glow)" x="40" y="160" font-size="12" font-weight="bold">FRAMEWORKS</text><text class="mono rise d3" fill="var(--text-main)" x="220" y="160" font-size="14" font-weight="normal">React, Next.js, Node.js, FastAPI, Flask, TailwindCSS, Vite</text><text class="mono rise d4" fill="var(--accent-glow)" x="40" y="200" font-size="12" font-weight="bold">DATA &amp; AI</text><text class="mono rise d4" fill="var(--text-main)" x="220" y="200" font-size="14" font-weight="normal">PyTorch, TensorFlow, Pandas, PostgreSQL, MongoDB</text><text class="mono rise d5" fill="var(--accent-glow)" x="40" y="240" font-size="12" font-weight="bold">TOOLCHAIN</text><text class="mono rise d5" fill="var(--text-main)" x="220" y="240" font-size="14" font-weight="normal">Docker, Git, CMake, Flex/Bison</text>

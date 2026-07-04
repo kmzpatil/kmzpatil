@@ -48,12 +48,13 @@ def render_text(x, y, text, font_size, fill="var(--text-main)", weight="normal",
     return f'<text class="{font_class} rise {delay_class}" fill="{fill}" x="{x}" y="{y}" font-size="{font_size}" font-weight="{weight}">{text}</text>'
 
 def section_header(number, title):
-    title = str(title).replace("&", "&amp;")
+    visual_length = len(title)
+    title_escaped = str(title).replace("&", "&amp;").replace("   ", "&#160;&#160;&#160;&#160;")
     return f"""
   <g class="fade d1 mono">
     <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">{number}</text>
-    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold" xml:space="preserve">{title}</text>
-    <line class="draw d1" x1="{105 + len(title)*16}" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
+    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold">{title_escaped}</text>
+    <line class="draw d1" x1="{105 + visual_length*16}" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
   </g>
 """
 
