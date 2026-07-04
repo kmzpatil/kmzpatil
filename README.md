@@ -2,29 +2,6 @@
   <img src="assets/00_header.svg" width="100%" alt="Header" />
 </div>
 
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/kartik-patil-957834201">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=1F8ACB"/>
-        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=1F8ACB" alt="LinkedIn"/>
-      </picture>
-    </a>
-    <a href="mailto:kmzpatil@gmail.com">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=1F8ACB"/>
-        <img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=1F8ACB" alt="Email"/>
-      </picture>
-    </a>
-    <a href="https://codeforces.com/profile/kresol">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codeforces_Expert-0d1117?style=flat-square&logo=codeforces&logoColor=1F8ACB"/>
-        <img src="https://img.shields.io/badge/Codeforces_Expert-ffffff?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
-      </picture>
-    </a>
-  </p>
-</div>
-
 <br/>
 
 <div align="center">

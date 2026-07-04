@@ -71,17 +71,23 @@ header = f"""
   {render_text(40, 140, "Kartik Mahendra Patil", 48, "var(--text-main)", "bold", "d2")}
   
   {render_text(40, 180, "ECE Undergrad @ IIT Kharagpur", 16, "var(--accent)", "bold", "d2")}
+  {render_text(340, 180, "◆", 10, "var(--accent-glow)", "normal", "d2")}
+  {render_text(360, 180, "LINKEDIN : kartik-patil-957834201", 12, "var(--text-muted)", "normal", "d2")}
+  {render_text(630, 180, "◆", 10, "var(--accent-glow)", "normal", "d2")}
+  {render_text(650, 180, "EMAIL : kmzpatil@gmail.com", 12, "var(--text-muted)", "normal", "d2")}
+  {render_text(850, 180, "◆", 10, "var(--accent-glow)", "normal", "d2")}
+  {render_text(870, 180, "CF : kresol", 12, "var(--text-muted)", "normal", "d2")}
   
-  {render_text(40, 230, "A passionate systems engineer building the next generation of high-performance backend architectures.", 14, "var(--text-muted)", "normal", "d3", "sans")}
-  {render_text(40, 255, "Specializing in C++ sub-microsecond matching engines, scalable full-stack multi-agent AI platforms,", 14, "var(--text-muted)", "normal", "d3", "sans")}
-  {render_text(40, 280, "advanced compiler pipelines, and decentralized finance infrastructure.", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 230, "A passionate systems engineer and competitive programmer driven to build the next generation", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 255, "of high-performance scalable architectures. Specializing in C++ sub-microsecond matching engines,", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 280, "robust full-stack multi-agent AI platforms, low-level kernel optimizations, and DeFi infrastructure.", 14, "var(--text-muted)", "normal", "d3", "sans")}
   
-  <line class="draw d4" x1="40" y1="310" x2="960" y2="310" stroke="var(--line)" stroke-width="1"/>
+  <line class="draw d4" x1="40" y1="320" x2="960" y2="320" stroke="var(--line)" stroke-width="1"/>
 """
 generate_svg('assets/00_header.svg', header, 360)
 
 # ================= 2. Tech Stack =================
-sysmap = section_header("01", "S Y S T E M _ A R C H I T E C T U R E")
+sysmap = section_header("01", "S Y S T E M   A R C H I T E C T U R E")
 sysmap += render_text(40, 120, "LANGUAGES", 12, "var(--accent-glow)", "bold", "d2")
 sysmap += render_text(220, 120, "C++, Python, TypeScript, JavaScript", 14, "var(--text-main)", "normal", "d2")
 sysmap += render_text(40, 160, "FRAMEWORKS", 12, "var(--accent-glow)", "bold", "d3")
@@ -146,12 +152,12 @@ proj_cpp = [
         "stack": "C++ · CMake"
     }
 ]
-c_svg, h_cpp = build_project_svg("02", "C O R E _ S Y S T E M S _ ( C + + )", proj_cpp)
+c_svg, h_cpp = build_project_svg("02", "C O R E   S Y S T E M S", proj_cpp)
 generate_svg('assets/02_core_systems.svg', c_svg, h_cpp)
 
 proj_ai = [
     {
-        "title": "Frammer _ Unified AI Analytics Platform",
+        "title": "Frammer - Unified AI Analytics Platform",
         "subtitle": "General Championship | Rank 1 Gold Medal",
         "bullets": [
             "Full-stack analytics platform with an autonomous ATLAS AI engine using a custom ReAct loop for data analysis.",
@@ -210,7 +216,7 @@ proj_ai = [
         "stack": "Python · Scikit-Learn · Pandas · Jupyter Notebook"
     }
 ]
-ai_svg, h_ai = build_project_svg("03", "A I _ D A T A _ & _ Q U A N T", proj_ai)
+ai_svg, h_ai = build_project_svg("03", "A I   D A T A   &   Q U A N T", proj_ai)
 generate_svg('assets/03_ai_quant.svg', ai_svg, h_ai)
 
 
@@ -244,7 +250,7 @@ proj_web = [
         "stack": "TypeScript · JavaScript · React · Node.js"
     }
 ]
-web_svg, h_web = build_project_svg("04", "W E B _ & _ F U L L _ S T A C K", proj_web)
+web_svg, h_web = build_project_svg("04", "W E B   &   F U L L   S T A C K", proj_web)
 generate_svg('assets/04_web_fullstack.svg', web_svg, h_web)
 
 # ================= 4. Competitions =================
@@ -264,7 +270,7 @@ for c_title, c_res in [
 generate_svg('assets/05_achievements.svg', comps, y_cursor + 20)
 
 # ================= 5. OSS =================
-oss = section_header("06", "F E A T U R E D _ P R O J E C T S")
+oss = section_header("06", "F E A T U R E D   P R O J E C T S")
 y_cursor = 120
 oss += render_text(40, y_cursor, "19+ active repositories across C++, Python, and Web architectures.", 14, "var(--text-main)", "normal", "d2", "sans")
 y_cursor += 25
