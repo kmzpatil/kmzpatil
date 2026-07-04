@@ -18,20 +18,20 @@
   <p>
     <a href="https://linkedin.com/in/kartik-patil-957834201">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
       </picture>
     </a>
     <a href="mailto:kmzpatil@gmail.com">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/>
       </picture>
     </a>
     <a href="https://codeforces.com/profile/kresol">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codeforces_Expert-0d1117?style=for-the-badge&logo=codeforces&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/Codeforces_Expert-ffffff?style=for-the-badge&logo=codeforces&logoColor=000000" alt="Codeforces"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Codeforces_Expert-0d1117?style=flat-square&logo=codeforces&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/Codeforces_Expert-ffffff?style=flat-square&logo=codeforces&logoColor=000000" alt="Codeforces"/>
       </picture>
     </a>
   </p>
@@ -180,8 +180,18 @@
 </div>
 <div align="center">
   <a href="https://codeforces.com/profile/kresol">
-    <img src="https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+    <img src="https://img.shields.io/badge/Codeforces-kresol-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Telemetry Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub contribution activity"/>
+  </picture>
 </div>
 
 <br/>
