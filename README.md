@@ -110,8 +110,8 @@
 <div align="center">
   <!-- Contribution Telemetry Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub contribution activity"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=00f0ff&line=00f0ff&point=ffffff&area_color=1F8ACB&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmzpatil&bg_color=00000000&color=00f0ff&line=00f0ff&point=ffffff&area_color=1F8ACB&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub contribution activity"/>
   </picture>
 </div>
 
