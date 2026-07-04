@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; --bg: #ffffff; }
+    @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; --bg: #0d1117; } }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(12px); } to { opacity:1;transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.2s} .a2{animation-delay:.5s} .a3{animation-delay:.9s} .a4{animation-delay:1.2s} .a5{animation-delay:1.4s} .a6{animation-delay:1.7s}
+    @media (prefers-reduced-motion: reduce) {
+      .draw,.rise,.fade { animation: none; }
+      .draw{stroke-dashoffset:0} .rise,.fade{opacity:1}
+    }
+  </style>
+  <rect width="100%" height="100%" fill="var(--bg)" rx="10"/>
+  
+  <g class="fade a1 mono" font-size="14" font-weight="bold" fill="var(--bone)" letter-spacing="2">
+    <text x="48" y="60" font-size="32">05</text>
+    <text x="96" y="55">O P E N   S O U R C E</text>
+    <line class="draw a1" x1="300" y1="50" x2="780" y2="50" stroke="var(--rule)" stroke-width="1"/>
+    <text x="800" y="55" font-size="10" fill="var(--muted)">~/05-open-source</text>
+  </g>
+  <g class="rise a2 mono" font-size="12" fill="var(--bone)">
+    <text x="48" y="110">▸ Cdc-Companion     (TypeScript)   Google Chrome Extension for placement portal.</text>
+    <text x="48" y="140">▸ 2026-PortFolio    (TypeScript)   Personal portfolio website using Next.js.</text>
+    <text x="48" y="170">▸ Image-Colorizer   (Python)       DL model to colorize greyscale images.</text>
+    <text x="48" y="200">▸ Object-Detection  (Python)       Real-time object detection using YOLO.</text>
+  </g>
+
+</svg>
