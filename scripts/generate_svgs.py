@@ -81,7 +81,7 @@ header = f"""
 generate_svg('assets/00_header.svg', header, 360)
 
 # ================= 2. Tech Stack =================
-sysmap = section_header("01", "S Y S T E M - A R C H I T E C T U R E")
+sysmap = section_header("01", "S Y S T E M _ A R C H I T E C T U R E")
 sysmap += render_text(40, 120, "LANGUAGES", 12, "var(--accent-glow)", "bold", "d2")
 sysmap += render_text(220, 120, "C++, Python, TypeScript, JavaScript", 14, "var(--text-main)", "normal", "d2")
 sysmap += render_text(40, 160, "FRAMEWORKS", 12, "var(--accent-glow)", "bold", "d3")
@@ -146,12 +146,12 @@ proj_cpp = [
         "stack": "C++ · CMake"
     }
 ]
-c_svg, h_cpp = build_project_svg("02", "C O R E - S Y S T E M S - ( C + + )", proj_cpp)
+c_svg, h_cpp = build_project_svg("02", "C O R E _ S Y S T E M S _ ( C + + )", proj_cpp)
 generate_svg('assets/02_core_systems.svg', c_svg, h_cpp)
 
 proj_ai = [
     {
-        "title": "Frammer - Unified AI Analytics Platform",
+        "title": "Frammer _ Unified AI Analytics Platform",
         "subtitle": "General Championship | Rank 1 Gold Medal",
         "bullets": [
             "Full-stack analytics platform with an autonomous ATLAS AI engine using a custom ReAct loop for data analysis.",
@@ -210,7 +210,7 @@ proj_ai = [
         "stack": "Python · Scikit-Learn · Pandas · Jupyter Notebook"
     }
 ]
-ai_svg, h_ai = build_project_svg("03", "A I - D A T A - & - Q U A N T", proj_ai)
+ai_svg, h_ai = build_project_svg("03", "A I _ D A T A _ & _ Q U A N T", proj_ai)
 generate_svg('assets/03_ai_quant.svg', ai_svg, h_ai)
 
 
@@ -244,7 +244,7 @@ proj_web = [
         "stack": "TypeScript · JavaScript · React · Node.js"
     }
 ]
-web_svg, h_web = build_project_svg("04", "W E B - & - F U L L - S T A C K", proj_web)
+web_svg, h_web = build_project_svg("04", "W E B _ & _ F U L L _ S T A C K", proj_web)
 generate_svg('assets/04_web_fullstack.svg', web_svg, h_web)
 
 # ================= 4. Competitions =================
@@ -264,7 +264,7 @@ for c_title, c_res in [
 generate_svg('assets/05_achievements.svg', comps, y_cursor + 20)
 
 # ================= 5. OSS =================
-oss = section_header("06", "O P E N - S O U R C E")
+oss = section_header("06", "F E A T U R E D _ P R O J E C T S")
 y_cursor = 120
 oss += render_text(40, y_cursor, "19+ active repositories across C++, Python, and Web architectures.", 14, "var(--text-main)", "normal", "d2", "sans")
 y_cursor += 25
