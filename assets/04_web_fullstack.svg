@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1000 495" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { 
+      --bg: #0d1117; 
+      --text-main: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #1F8ACB; 
+      --accent-glow: #00f0ff;
+      --line: #30363d;
+    }
+    .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "SF Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    
+    /* Animations */
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.2s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    
+    .rise { opacity: 0; animation: rise 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes rise { 
+      from { opacity: 0; transform: translateY(10px); } 
+      to { opacity: 1; transform: translateY(0); } 
+    }
+    
+    .fade { opacity: 0; animation: fade 1s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+
+    /* Delays */
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.3s; }
+    .d3 { animation-delay: 0.5s; }
+    .d4 { animation-delay: 0.7s; }
+    .d5 { animation-delay: 0.9s; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="var(--bg)" rx="8"/>
+  
+  <g class="fade d1 mono">
+    <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">04</text>
+    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold">W E B   &   F U L L - S T A C K</text>
+    <line class="draw d1" x1="601" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
+  </g>
+<text class="mono rise d2" fill="var(--text-main)" x="40" y="120" font-size="18" font-weight="bold">CDC Companion - CV Review Platform</text><text class="mono rise d2" fill="var(--accent)" x="40" y="145" font-size="13" font-weight="normal">Full-Stack SaaS</text><text class="sans rise d3" fill="var(--text-muted)" x="40" y="175" font-size="13" font-weight="normal">▸ High-performance REST API matching 500+ candidates with reviewers.</text><text class="sans rise d3" fill="var(--text-muted)" x="40" y="202" font-size="13" font-weight="normal">▸ AI review agent extracting text from 1,000+ PDFs to generate domain-specific CV feedback via LLMs.</text><text class="sans rise d3" fill="var(--text-muted)" x="40" y="229" font-size="13" font-weight="normal">▸ JWT auth, dependency-free rate limiter, and automated Nodemailer with <2s delivery latency.</text><text class="mono rise d4" fill="var(--line)" x="40" y="271" font-size="12" font-weight="normal">[Node.js · TypeScript · Prisma · LLMs]</text><text class="mono rise d2" fill="var(--text-main)" x="40" y="321" font-size="18" font-weight="bold">GMUN 2026 - Event Platform</text><text class="mono rise d2" fill="var(--accent)" x="40" y="346" font-size="13" font-weight="normal">Official IIT KGP MUN Platform</text><text class="sans rise d3" fill="var(--text-muted)" x="40" y="376" font-size="13" font-weight="normal">▸ Digital interface for the Global Model United Nations at IIT KGP handling 300+ delegate registrations.</text><text class="sans rise d3" fill="var(--text-muted)" x="40" y="403" font-size="13" font-weight="normal">▸ Mobile-first responsive design with seamless registration workflows.</text><text class="mono rise d4" fill="var(--line)" x="40" y="445" font-size="12" font-weight="normal">[React.js · Node.js · CSS3]</text>
+</svg>

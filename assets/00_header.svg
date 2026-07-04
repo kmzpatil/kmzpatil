@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { 
+      --bg: #0d1117; 
+      --text-main: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #1F8ACB; 
+      --accent-glow: #00f0ff;
+      --line: #30363d;
+    }
+    .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "SF Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    
+    /* Animations */
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.2s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    
+    .rise { opacity: 0; animation: rise 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes rise { 
+      from { opacity: 0; transform: translateY(10px); } 
+      to { opacity: 1; transform: translateY(0); } 
+    }
+    
+    .fade { opacity: 0; animation: fade 1s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+
+    /* Delays */
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.3s; }
+    .d3 { animation-delay: 0.5s; }
+    .d4 { animation-delay: 0.7s; }
+    .d5 { animation-delay: 0.9s; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="var(--bg)" rx="8"/>
+  
+  <line class="draw d1" x1="40" y1="60" x2="960" y2="60" stroke="var(--accent-glow)" stroke-width="2"/>
+  <g class="fade d1 mono" font-size="12" letter-spacing="2" fill="var(--text-muted)">
+    <text x="40" y="44">INIT SEQUENCE // ROOT</text>
+    <text x="960" y="44" text-anchor="end">SYS.VER: 1.0.0</text>
+  </g>
+  
+  <text class="mono rise d2" fill="var(--text-main)" x="40" y="140" font-size="48" font-weight="bold">Kartik Mahendra Patil</text>
+  
+  <text class="mono rise d2" fill="var(--accent)" x="40" y="180" font-size="16" font-weight="bold">ECE Undergrad @ IIT Kharagpur  ·  Codeforces Expert (1620)</text>
+  
+  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="230" font-size="14" font-weight="normal">I build high-performance systems that span from sub-microsecond matching engines</text>
+  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="255" font-size="14" font-weight="normal">and compiler pipelines to multi-agent AI platforms and DeFi infrastructure.</text>
+  
+  <line class="draw d4" x1="40" y1="310" x2="960" y2="310" stroke="var(--line)" stroke-width="1"/>
+
+</svg>

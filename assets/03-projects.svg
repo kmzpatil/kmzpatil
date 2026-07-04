@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1000 978" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { 
+      --bg: #ffffff; 
+      --text-main: #333333;
+      --text-muted: #666666;
+      --accent: #1F8ACB; 
+      --line: #e0e0e0;
+    }
+    @media (prefers-color-scheme: dark) { 
+      :root { 
+        --bg: #0d1117; 
+        --text-main: #c9d1d9;
+        --text-muted: #8b949e;
+        --accent: #00f0ff; 
+        --line: #30363d;
+      } 
+    }
+    .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "SF Mono", monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.5s ease forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise 1s ease forwards; }
+    @keyframes rise { from { opacity:0;transform:translateY(15px); } to { opacity:1;transform:translateY(0); } }
+    .fade { opacity: 0; animation: fade 1s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:0.2s} .a2{animation-delay:0.5s} .a3{animation-delay:0.8s} .a4{animation-delay:1.1s} .a5{animation-delay:1.4s}
+  </style>
+  <rect width="100%" height="100%" fill="var(--bg)" rx="8"/>
+  
+  <g class="fade a1 mono" fill="var(--accent)">
+    <text x="48" y="60" font-size="32" font-weight="bold">03</text>
+    <text x="96" y="55" font-size="14" letter-spacing="3" fill="var(--text-main)">P R O J E C T S</text>
+    <line class="draw a1" x1="325" y1="50" x2="952" y2="50" stroke="var(--line)" stroke-width="1"/>
+  </g>
+<text class="mono rise a2" fill="var(--text-main)" x="48" y="110" font-size="18" font-weight="bold">Frammer - Unified AI Analytics Platform</text><text class="mono rise a2" fill="var(--accent)" x="48" y="135" font-size="12" font-weight="normal">FastAPI · React · Vite · PostgreSQL · Docker · Gemini</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="160" font-size="13" font-weight="normal">▸ Spearheaded a full-stack platform (FastAPI, React, Vite) and ATLAS AI engine using a custom React loop to</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="182" font-size="13" font-weight="normal">  analyze 100K+ data points/day</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="204" font-size="13" font-weight="normal">▸ Developed a custom DSL parser to track 19+ complex KPIs, establishing a robust secure PostgreSQL multi-</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="226" font-size="13" font-weight="normal">  tenant RBAC architecture</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="248" font-size="13" font-weight="normal">▸ Containerized platform using Docker and integrated Google Gemini, MCP server and Chronos forecasting,</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="270" font-size="13" font-weight="normal">  cutting deployment times by 40%</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="292" font-size="13" font-weight="normal">▸ Optimized database queries, cutting data retrieval delays by 35% across 1M+ row operations using partial</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="314" font-size="13" font-weight="normal">  and covering B-tree indexes</text><text class="mono rise a2" fill="var(--text-main)" x="48" y="366" font-size="18" font-weight="bold">Mini-Compiler</text><text class="mono rise a2" fill="var(--accent)" x="48" y="391" font-size="12" font-weight="normal">C++ · Compiler Design · AST · Flex/Bison</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="416" font-size="13" font-weight="normal">▸ Developed a recursive descent parser generating Abstract Syntax Trees (AST) using Flex/Bison for</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="438" font-size="13" font-weight="normal">  customized C-like grammar parsing</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="460" font-size="13" font-weight="normal">▸ Implemented comprehensive support for 18+ operators spanning arithmetic, bitwise, comparison, and if-</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="482" font-size="13" font-weight="normal">  then-else in AST visitors</text><text class="mono rise a2" fill="var(--text-main)" x="48" y="534" font-size="18" font-weight="bold">DeFi Arbitrage Bot</text><text class="mono rise a2" fill="var(--accent)" x="48" y="559" font-size="12" font-weight="normal">Python · Web3.py · Defi · Graph Algorithms</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="584" font-size="13" font-weight="normal">▸ Devised a Python DeFi arbitrage engine using Web3.py and Infura to monitor 50+ Uniswap V3 pools for</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="606" font-size="13" font-weight="normal">  cross-pool price discrepancies</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="628" font-size="13" font-weight="normal">▸ Implemented Bellman-Ford negative cycle detection on 100+ node token graphs, identifying hundreds of</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="650" font-size="13" font-weight="normal">  daily triangular arbitrage paths</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="672" font-size="13" font-weight="normal">▸ Formulated profit calculations incorporating pool fee tiers, slippage estimation, and real-time gas</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="694" font-size="13" font-weight="normal">  oracles for 95%+ accurate net PnL</text><text class="mono rise a2" fill="var(--text-main)" x="48" y="746" font-size="18" font-weight="bold">CDC Companion</text><text class="mono rise a2" fill="var(--accent)" x="48" y="771" font-size="12" font-weight="normal">TypeScript · Node.js · Puppeteer · LLMs</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="796" font-size="13" font-weight="normal">▸ Automated student registration processes on university portal by reverse engineering the API, achieving a</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="818" font-size="13" font-weight="normal">  100% bypass of reCAPTCHA</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="840" font-size="13" font-weight="normal">▸ Scraped dynamic JSON responses and tracked placement drives utilizing a lightweight Puppeteer/Node.js</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="862" font-size="13" font-weight="normal">  backend scheduler</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="884" font-size="13" font-weight="normal">▸ Architected a Groq LLM pipeline to structure unstructured placement criteria, notifying students via</text><text class="mono rise a3" fill="var(--text-muted)" x="48" y="906" font-size="13" font-weight="normal">  real-time Telegram/Email alerts</text>
+</svg>

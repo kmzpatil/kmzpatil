@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { 
+      --bg: #0d1117; 
+      --text-main: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #1F8ACB; 
+      --accent-glow: #00f0ff;
+      --line: #30363d;
+    }
+    .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "SF Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    
+    /* Animations */
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.2s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    
+    .rise { opacity: 0; animation: rise 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes rise { 
+      from { opacity: 0; transform: translateY(10px); } 
+      to { opacity: 1; transform: translateY(0); } 
+    }
+    
+    .fade { opacity: 0; animation: fade 1s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+
+    /* Delays */
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.3s; }
+    .d3 { animation-delay: 0.5s; }
+    .d4 { animation-delay: 0.7s; }
+    .d5 { animation-delay: 0.9s; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="var(--bg)" rx="8"/>
+  
+  <g class="fade d1 mono">
+    <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">05</text>
+    <text x="96" y="52" font-size="16" letter-spacing="4" fill="var(--text-main)" font-weight="bold">A C H I E V E M E N T S</text>
+    <line class="draw d1" x1="473" y1="46" x2="960" y2="46" stroke="var(--line)" stroke-width="1"/>
+  </g>
+<text class="mono rise d2" fill="var(--text-main)" x="40" y="120" font-size="15" font-weight="bold">IICPC CodeFest 2026 Global</text><text class="mono rise d3" fill="var(--text-muted)" x="450" y="120" font-size="14" font-weight="normal">Rank 1254 / 13,000+ coders</text><line class="draw d4" x1="40" y1="135" x2="960" y2="135" stroke="var(--line)" stroke-width="1" stroke-dasharray="4 4"/><text class="mono rise d2" fill="var(--text-main)" x="40" y="160" font-size="15" font-weight="bold">IMC Prosperity 4</text><text class="mono rise d3" fill="var(--text-muted)" x="450" y="160" font-size="14" font-weight="normal">Global Rank 529, Country Rank 81</text><line class="draw d4" x1="40" y1="175" x2="960" y2="175" stroke="var(--line)" stroke-width="1" stroke-dasharray="4 4"/><text class="mono rise d2" fill="var(--text-main)" x="40" y="200" font-size="15" font-weight="bold">Goldman Sachs India Hackathon 2026</text><text class="mono rise d3" fill="var(--text-muted)" x="450" y="200" font-size="14" font-weight="normal">Quant: Rank 447, CS: Rank 584</text><line class="draw d4" x1="40" y1="215" x2="960" y2="215" stroke="var(--line)" stroke-width="1" stroke-dasharray="4 4"/><text class="mono rise d2" fill="var(--text-main)" x="40" y="240" font-size="15" font-weight="bold">AMS Derive 2026 (Jane Street, QRT)</text><text class="mono rise d3" fill="var(--text-muted)" x="450" y="240" font-size="14" font-weight="normal">Rank 198 / 2,500</text><line class="draw d4" x1="40" y1="255" x2="960" y2="255" stroke="var(--line)" stroke-width="1" stroke-dasharray="4 4"/>
+</svg>
