@@ -125,14 +125,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kmzpatil&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmzpatil&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kmzpatil&show_icons=true&hide_border=true&v=2&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kmzpatil&layout=compact&hide_border=true&v=2&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kmzpatil&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kmzpatil&hide_border=true&v=2&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br/>
