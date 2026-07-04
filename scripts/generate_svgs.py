@@ -70,10 +70,11 @@ header = f"""
   
   {render_text(40, 140, "Kartik Mahendra Patil", 48, "var(--text-main)", "bold", "d2")}
   
-  {render_text(40, 180, "ECE Undergrad @ IIT Kharagpur  ·  Codeforces Expert (1620)", 16, "var(--accent)", "bold", "d2")}
+  {render_text(40, 180, "ECE Undergrad @ IIT Kharagpur", 16, "var(--accent)", "bold", "d2")}
   
-  {render_text(40, 230, "I build high-performance systems that span from sub-microsecond matching engines", 14, "var(--text-muted)", "normal", "d3", "sans")}
-  {render_text(40, 255, "and compiler pipelines to multi-agent AI platforms and DeFi infrastructure.", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 230, "A passionate systems engineer building the next generation of high-performance backend architectures.", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 255, "Specializing in C++ sub-microsecond matching engines, scalable full-stack multi-agent AI platforms,", 14, "var(--text-muted)", "normal", "d3", "sans")}
+  {render_text(40, 280, "advanced compiler pipelines, and decentralized finance infrastructure.", 14, "var(--text-muted)", "normal", "d3", "sans")}
   
   <line class="draw d4" x1="40" y1="310" x2="960" y2="310" stroke="var(--line)" stroke-width="1"/>
 """
@@ -250,6 +251,7 @@ generate_svg('assets/04_web_fullstack.svg', web_svg, h_web)
 comps = section_header("05", "A C H I E V E M E N T S")
 y_cursor = 120
 for c_title, c_res in [
+    ("Codeforces Expert", "Max Rating 1616"),
     ("IICPC CodeFest 2026 Global", "Rank 1254 / 13,000+ coders"),
     ("IMC Prosperity 4", "Global Rank 529, Country Rank 81"),
     ("Goldman Sachs India Hackathon 2026", "Quant: Rank 447, CS: Rank 584"),

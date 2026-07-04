@@ -88,7 +88,7 @@
 <table border="0">
   <tr>
     <td valign="top" width="33%">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=Web%20%26%20Full%20Stack&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <h3 align="left">🌐 Web & Full Stack</h3>
       <br/>
       <a href="https://github.com/kmzpatil/Cdc-Companion"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Cdc-Companion&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
       <a href="https://github.com/kmzpatil/Agentic-Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Agentic-Dashboard&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
@@ -97,7 +97,7 @@
       <a href="https://github.com/kmzpatil/WEbsite-designer"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=WEbsite-designer&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=AI%2C%20Data%20%26%20Quant&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <h3 align="left">🧠 AI, Data & Quant</h3>
       <br/>
       <a href="https://github.com/kmzpatil/KGPharmAgents"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=KGPharmAgents&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
       <a href="https://github.com/kmzpatil/DeFi-Arbitrage-Bot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=DeFi-Arbitrage-Bot&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
@@ -106,7 +106,7 @@
       <a href="https://github.com/kmzpatil/Summer_Analytics_Hackathon"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Summer_Analytics_Hackathon&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a>
     </td>
     <td valign="top" width="33%">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=Core%20Systems%20(C%2B%2B)&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <h3 align="left">⚙️ Core Systems (C++)</h3>
       <br/>
       <a href="https://github.com/kmzpatil/AutoComplete-Engine"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=AutoComplete-Engine&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
       <a href="https://github.com/kmzpatil/Mini-Compilor"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Mini-Compilor&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>

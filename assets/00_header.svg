@@ -42,10 +42,11 @@
   
   <text class="mono rise d2" fill="var(--text-main)" x="40" y="140" font-size="48" font-weight="bold">Kartik Mahendra Patil</text>
   
-  <text class="mono rise d2" fill="var(--accent)" x="40" y="180" font-size="16" font-weight="bold">ECE Undergrad @ IIT Kharagpur  ·  Codeforces Expert (1620)</text>
+  <text class="mono rise d2" fill="var(--accent)" x="40" y="180" font-size="16" font-weight="bold">ECE Undergrad @ IIT Kharagpur</text>
   
-  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="230" font-size="14" font-weight="normal">I build high-performance systems that span from sub-microsecond matching engines</text>
-  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="255" font-size="14" font-weight="normal">and compiler pipelines to multi-agent AI platforms and DeFi infrastructure.</text>
+  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="230" font-size="14" font-weight="normal">A passionate systems engineer building the next generation of high-performance backend architectures.</text>
+  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="255" font-size="14" font-weight="normal">Specializing in C++ sub-microsecond matching engines, scalable full-stack multi-agent AI platforms,</text>
+  <text class="sans rise d3" fill="var(--text-muted)" x="40" y="280" font-size="14" font-weight="normal">advanced compiler pipelines, and decentralized finance infrastructure.</text>
   
   <line class="draw d4" x1="40" y1="310" x2="960" y2="310" stroke="var(--line)" stroke-width="1"/>
 
