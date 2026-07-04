@@ -94,11 +94,11 @@ sysmap = section_header("01", "S Y S T E M   A R C H I T E C T U R E")
 sysmap += render_text(40, 120, "LANGUAGES", 12, "var(--accent-glow)", "bold", "d2")
 sysmap += render_text(220, 120, "C++, Python, TypeScript, JavaScript", 14, "var(--text-main)", "normal", "d2")
 sysmap += render_text(40, 160, "FRAMEWORKS", 12, "var(--accent-glow)", "bold", "d3")
-sysmap += render_text(220, 160, "React, Next.js, Node.js, FastAPI, Flask, TailwindCSS, Vite", 14, "var(--text-main)", "normal", "d3")
+sysmap += render_text(220, 160, "React, Next.js, Node.js, FastAPI, Flask, Tailwind, HTML5, CSS3", 14, "var(--text-main)", "normal", "d3")
 sysmap += render_text(40, 200, "DATA & AI", 12, "var(--accent-glow)", "bold", "d4")
 sysmap += render_text(220, 200, "PyTorch, TensorFlow, Pandas, PostgreSQL, MongoDB", 14, "var(--text-main)", "normal", "d4")
 sysmap += render_text(40, 240, "TOOLCHAIN", 12, "var(--accent-glow)", "bold", "d5")
-sysmap += render_text(220, 240, "Docker, Git, CMake, Flex/Bison", 14, "var(--text-main)", "normal", "d5")
+sysmap += render_text(220, 240, "Docker, Git, CMake, Flex/Bison, Vite, Linux, Bash", 14, "var(--text-main)", "normal", "d5")
 generate_svg('assets/01_sysmap.svg', sysmap, 290)
 
 # ================= 3. Projects (Categorized) =================
