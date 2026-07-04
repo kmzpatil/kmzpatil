@@ -44,9 +44,11 @@ def generate_svg(filename, content, height):
         f.write(svg)
 
 def render_text(x, y, text, font_size, fill="var(--text-main)", weight="normal", delay_class="d2", font_class="mono"):
+    text = str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     return f'<text class="{font_class} rise {delay_class}" fill="{fill}" x="{x}" y="{y}" font-size="{font_size}" font-weight="{weight}">{text}</text>'
 
 def section_header(number, title):
+    title = str(title).replace("&", "&amp;")
     return f"""
   <g class="fade d1 mono">
     <text x="40" y="60" font-size="36" font-weight="bold" fill="var(--accent-glow)">{number}</text>
@@ -78,7 +80,7 @@ header = f"""
 generate_svg('assets/00_header.svg', header, 360)
 
 # ================= 2. Tech Stack =================
-sysmap = section_header("01", "S Y S T E M   A R C H I T E C T U R E")
+sysmap = section_header("01", "S Y S T E M - A R C H I T E C T U R E")
 sysmap += render_text(40, 120, "LANGUAGES", 12, "var(--accent-glow)", "bold", "d2")
 sysmap += render_text(220, 120, "C++, Python, TypeScript, JavaScript", 14, "var(--text-main)", "normal", "d2")
 sysmap += render_text(40, 160, "FRAMEWORKS", 12, "var(--accent-glow)", "bold", "d3")
@@ -143,7 +145,7 @@ proj_cpp = [
         "stack": "C++ · CMake"
     }
 ]
-c_svg, h_cpp = build_project_svg("02", "C O R E   S Y S T E M S   ( C + + )", proj_cpp)
+c_svg, h_cpp = build_project_svg("02", "C O R E - S Y S T E M S - ( C + + )", proj_cpp)
 generate_svg('assets/02_core_systems.svg', c_svg, h_cpp)
 
 proj_ai = [
@@ -196,9 +198,18 @@ proj_ai = [
             "Accelerated processing pipeline speed by 35% utilizing multi-threaded data loading and vectorized pandas operations."
         ],
         "stack": "Python · PyTorch · Optuna · Scikit-Learn"
+    },
+    {
+        "title": "Summer Analytics Hackathon",
+        "subtitle": "Data Science Competition",
+        "bullets": [
+            "Developed advanced machine learning models for predictive analytics on large datasets.",
+            "Utilized exploratory data analysis (EDA) to uncover actionable business insights."
+        ],
+        "stack": "Python · Scikit-Learn · Pandas · Jupyter Notebook"
     }
 ]
-ai_svg, h_ai = build_project_svg("03", "A I ,   D A T A   &   Q U A N T", proj_ai)
+ai_svg, h_ai = build_project_svg("03", "A I - D A T A - & - Q U A N T", proj_ai)
 generate_svg('assets/03_ai_quant.svg', ai_svg, h_ai)
 
 
@@ -221,9 +232,18 @@ proj_web = [
             "Mobile-first responsive design with seamless registration workflows."
         ],
         "stack": "React.js · Node.js · CSS3"
+    },
+    {
+        "title": "Todo Full-Stack App",
+        "subtitle": "Productivity Tool",
+        "bullets": [
+            "Built a robust full-stack task management application featuring user authentication and real-time state synchronization.",
+            "Implemented RESTful API endpoints for complete CRUD functionality with persistent database storage."
+        ],
+        "stack": "TypeScript · JavaScript · React · Node.js"
     }
 ]
-web_svg, h_web = build_project_svg("04", "W E B   &   F U L L - S T A C K", proj_web)
+web_svg, h_web = build_project_svg("04", "W E B - & - F U L L - S T A C K", proj_web)
 generate_svg('assets/04_web_fullstack.svg', web_svg, h_web)
 
 # ================= 4. Competitions =================
@@ -242,7 +262,7 @@ for c_title, c_res in [
 generate_svg('assets/05_achievements.svg', comps, y_cursor + 20)
 
 # ================= 5. OSS =================
-oss = section_header("06", "O P E N   S O U R C E")
+oss = section_header("06", "O P E N - S O U R C E")
 y_cursor = 120
 oss += render_text(40, y_cursor, "19+ active repositories across C++, Python, and Web architectures.", 14, "var(--text-main)", "normal", "d2", "sans")
 y_cursor += 25

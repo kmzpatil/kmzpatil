@@ -67,31 +67,34 @@
   <img src="assets/06_oss.svg" width="100%" alt="Open Source Repositories" />
 </div>
 
-### Web & Full Stack
-- **[Cdc-Companion](https://github.com/kmzpatil/Cdc-Companion)** - TypeScript
-- **[Agentic-Dashboard](https://github.com/kmzpatil/Agentic-Dashboard)** - JavaScript
-- **[sophomore-contact-form](https://github.com/kmzpatil/sophomore-contact-form)** - TypeScript
-- **[sophomore-contact-form-frontend](https://github.com/kmzpatil/sophomore-contact-form-frontend)** - TypeScript
-- **[Todo_Frontend](https://github.com/kmzpatil/Todo_Frontend)** - TypeScript
-- **[Todo_Backend](https://github.com/kmzpatil/Todo_Backend)** - JavaScript
-- **[nodejs_backend](https://github.com/kmzpatil/nodejs_backend)** - JavaScript
-- **[WEbsite-designer](https://github.com/kmzpatil/WEbsite-designer)** - TypeScript
-- **[Contest-tracker](https://github.com/kmzpatil/Contest-tracker)** - TypeScript
-- **[Prosperity](https://github.com/kmzpatil/Prosperity)** - HTML
-- **[techteam1](https://github.com/kmzpatil/techteam1)** - HTML
-
-### AI, Data & Quant
-- **[KGPharmAgents](https://github.com/kmzpatil/KGPharmAgents)** - Python
-- **[DeFi-Arbitrage-Bot](https://github.com/kmzpatil/DeFi-Arbitrage-Bot)** - Python
-- **[Cancer-Analysis](https://github.com/kmzpatil/Cancer-Analysis)** - Jupyter Notebook
-- **[Manpower_optimisation_in_Manufacturing_using_Multi-Objective_Optimization](https://github.com/kmzpatil/Manpower_optimisation_in_Manufacturing_using_Multi-Objective_Optimization)** - Jupyter Notebook
-- **[Kdag_Task](https://github.com/kmzpatil/Kdag_Task)** - Jupyter Notebook
-- **[Summer_Analytics_Hackathon](https://github.com/kmzpatil/Summer_Analytics_Hackathon)** - Jupyter Notebook
-- **[SA_W1_Assignment](https://github.com/kmzpatil/SA_W1_Assignment)** - Jupyter Notebook
-
-### Core Systems (C++)
-- **[AutoComplete-Engine](https://github.com/kmzpatil/AutoComplete-Engine)** - C++
-- **[Mini-Compilor](https://github.com/kmzpatil/Mini-Compilor)** - C++
+<table border="0">
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=Web%20%26%20Full%20Stack&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <br/>
+      <a href="https://github.com/kmzpatil/Cdc-Companion"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Cdc-Companion&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Agentic-Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Agentic-Dashboard&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/sophomore-contact-form-frontend"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=sophomore-contact-form-frontend&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Todo_Frontend"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Todo_Frontend&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/WEbsite-designer"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=WEbsite-designer&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=AI%2C%20Data%20%26%20Quant&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <br/>
+      <a href="https://github.com/kmzpatil/KGPharmAgents"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=KGPharmAgents&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/DeFi-Arbitrage-Bot"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=DeFi-Arbitrage-Bot&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Cancer-Analysis"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Cancer-Analysis&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Kdag_Task"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Kdag_Task&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Summer_Analytics_Hackathon"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Summer_Analytics_Hackathon&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&color=00f0ff&height=40&section=header&text=Core%20Systems%20(C%2B%2B)&fontSize=16&fontAlignY=50&fontAlign=left" />
+      <br/>
+      <a href="https://github.com/kmzpatil/AutoComplete-Engine"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=AutoComplete-Engine&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+      <a href="https://github.com/kmzpatil/Mini-Compilor"><img src="https://github-readme-stats.shion.dev/api/pin/?username=kmzpatil&repo=Mini-Compilor&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&hide_border=true" /></a><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
