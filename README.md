@@ -32,9 +32,27 @@
 </div>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,fastapi,flask,tailwind,vite,pytorch,tensorflow,postgres,mongodb,docker,git,cmake,html,css&perline=10" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f0ff" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f0ff" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00f0ff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00f0ff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f0ff" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f0ff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00f0ff" alt="Flask" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff" alt="TailwindCSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=00f0ff" alt="Vite" />
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00f0ff" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00f0ff" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f0ff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00f0ff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f0ff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00f0ff" alt="Git" />
+  <img src="https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=00f0ff" alt="CMake" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00f0ff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00f0ff" alt="CSS3" />
 </div>
 
 <br/>
