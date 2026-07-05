@@ -22,3 +22,9 @@ Studied ReAct loop internals — how thought/action/observation cycles handle to
 Reviewed Uniswap V3 concentrated liquidity math and tick-based price range encoding.
 
 ---
+
+## July 05, 2026 — Full Stack Engineering
+
+Reviewed PostgreSQL EXPLAIN ANALYZE output — identified sequential scan vs index scan.
+
+---
