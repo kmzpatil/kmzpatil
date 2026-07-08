@@ -40,3 +40,9 @@ Reviewed LSTM vanishing gradient problem — why gating mechanisms solve it.
 Studied cache-oblivious algorithms and their impact on branch predictor performance.
 
 ---
+
+## July 08, 2026 — Competitive Programming
+
+Solved a segment tree with lazy propagation problem — range assign and range sum.
+
+---
