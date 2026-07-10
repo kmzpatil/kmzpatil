@@ -52,3 +52,9 @@ Solved a segment tree with lazy propagation problem — range assign and range s
 Reviewed LangGraph state machine patterns for orchestrating parallel agent branches.
 
 ---
+
+## July 10, 2026 — Quant & DeFi
+
+Studied Black-Scholes Greeks — delta hedging and gamma scalping intuition.
+
+---
