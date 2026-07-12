@@ -64,3 +64,9 @@ Studied Black-Scholes Greeks — delta hedging and gamma scalping intuition.
 Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
 
 ---
+
+## July 12, 2026 — Machine Learning
+
+Studied Optuna TPE sampler — how it models hyperparameter distributions.
+
+---
