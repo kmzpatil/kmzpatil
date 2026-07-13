@@ -70,3 +70,9 @@ Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
 Studied Optuna TPE sampler — how it models hyperparameter distributions.
 
 ---
+
+## July 13, 2026 — Low-Latency C++
+
+Analyzed false sharing in multithreaded order books — padding structs to 64-byte alignment.
+
+---
