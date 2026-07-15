@@ -82,3 +82,9 @@ Analyzed false sharing in multithreaded order books — padding structs to 64-by
 Reviewed Knuth-Yao DP optimization for convex cost functions.
 
 ---
+
+## July 15, 2026 — AI & Multi-Agent Systems
+
+Explored multi-head attention complexity trade-offs in transformer inference.
+
+---
