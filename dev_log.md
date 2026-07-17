@@ -94,3 +94,9 @@ Explored multi-head attention complexity trade-offs in transformer inference.
 Analyzed IMC Prosperity market-making strategy — bid-ask spread optimization.
 
 ---
+
+## July 17, 2026 — Full Stack Engineering
+
+Explored React Server Components vs Client Components trade-offs in Next.js 14.
+
+---
