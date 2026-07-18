@@ -100,3 +100,9 @@ Analyzed IMC Prosperity market-making strategy — bid-ask spread optimization.
 Explored React Server Components vs Client Components trade-offs in Next.js 14.
 
 ---
+
+## July 18, 2026 — Machine Learning
+
+Analyzed class imbalance handling: SMOTE vs majority batching vs focal loss.
+
+---
