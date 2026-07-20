@@ -112,3 +112,9 @@ Analyzed class imbalance handling: SMOTE vs majority batching vs focal loss.
 Explored `std::memory_order_acquire/release` for building wait-free data structures.
 
 ---
+
+## July 20, 2026 — Competitive Programming
+
+Analyzed amortized complexity of DSU with path compression and union by rank.
+
+---
