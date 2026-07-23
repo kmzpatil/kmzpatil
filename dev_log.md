@@ -130,3 +130,9 @@ Read about retrieval-augmented generation (RAG) chunking strategies for long doc
 Read about cross-venue statistical arbitrage using cointegrated asset pairs.
 
 ---
+
+## July 23, 2026 — Full Stack Engineering
+
+Read about HTTP/2 multiplexing and how it reduces latency for API-heavy apps.
+
+---
