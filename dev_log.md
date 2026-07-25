@@ -142,3 +142,9 @@ Read about HTTP/2 multiplexing and how it reduces latency for API-heavy apps.
 Explored HDBSCAN clustering — density reachability and minimum cluster size.
 
 ---
+
+## July 25, 2026 — Low-Latency C++
+
+Benchmarked `std::map` vs flat sorted arrays for price-time priority order matching.
+
+---
