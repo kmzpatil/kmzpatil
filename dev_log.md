@@ -148,3 +148,9 @@ Explored HDBSCAN clustering — density reachability and minimum cluster size.
 Benchmarked `std::map` vs flat sorted arrays for price-time priority order matching.
 
 ---
+
+## July 26, 2026 — Competitive Programming
+
+Worked through a flow network problem using Dinic's algorithm with BFS layering.
+
+---
