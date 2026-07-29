@@ -166,3 +166,9 @@ Analyzed Groq's LPU architecture and why it achieves lower token latency than GP
 Explored Bellman-Ford on exchange rate graphs for detecting arbitrage cycles.
 
 ---
+
+## July 29, 2026 — Full Stack Engineering
+
+Analyzed JWT vs session token security — refresh token rotation best practices.
+
+---
