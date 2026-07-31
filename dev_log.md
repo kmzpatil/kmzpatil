@@ -178,3 +178,9 @@ Analyzed JWT vs session token security — refresh token rotation best practices
 Read about EfficientNet compound scaling — depth, width, and resolution coefficients.
 
 ---
+
+## July 31, 2026 — Low-Latency C++
+
+Read about DPDK (Data Plane Development Kit) for kernel-bypass networking in HFT.
+
+---
