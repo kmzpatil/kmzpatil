@@ -190,3 +190,9 @@ Read about DPDK (Data Plane Development Kit) for kernel-bypass networking in HFT
 Studied Li Chao tree for dynamic convex hull trick on online queries.
 
 ---
+
+## August 02, 2026 — AI & Multi-Agent Systems
+
+Studied function-calling schemas in OpenAI and Gemini APIs for structured agent output.
+
+---
