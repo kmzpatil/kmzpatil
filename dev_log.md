@@ -208,3 +208,9 @@ Reviewed EIP-1559 fee mechanism and miner-extractable value (MEV) implications.
 Reviewed WebSocket connection pooling strategies for real-time dashboard updates.
 
 ---
+
+## August 05, 2026 — Machine Learning
+
+Studied ensemble diversity — why combining EfficientNet and ResNet improves recall.
+
+---
