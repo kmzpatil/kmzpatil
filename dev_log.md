@@ -220,3 +220,9 @@ Studied ensemble diversity — why combining EfficientNet and ResNet improves re
 Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
 
 ---
+
+## August 07, 2026 — Competitive Programming
+
+Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
+
+---
