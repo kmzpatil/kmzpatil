@@ -214,3 +214,9 @@ Reviewed WebSocket connection pooling strategies for real-time dashboard updates
 Studied ensemble diversity — why combining EfficientNet and ResNet improves recall.
 
 ---
+
+## August 07, 2026 — Competitive Programming
+
+Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
+
+---
