@@ -226,3 +226,9 @@ Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
 Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
 
 ---
+
+## August 08, 2026 — AI & Multi-Agent Systems
+
+Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
+
+---
