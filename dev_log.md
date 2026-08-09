@@ -232,3 +232,9 @@ Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
 Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
 
 ---
+
+## August 09, 2026 — Quant & DeFi
+
+Studied pairs trading using Ornstein-Uhlenbeck mean-reversion process.
+
+---
