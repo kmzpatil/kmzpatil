@@ -244,3 +244,9 @@ Studied pairs trading using Ornstein-Uhlenbeck mean-reversion process.
 Studied Prisma query optimization — N+1 problem and relation loading strategies.
 
 ---
+
+## August 11, 2026 — Machine Learning
+
+Reviewed t-SNE vs UMAP for high-dimensional embedding visualization.
+
+---
