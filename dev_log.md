@@ -250,3 +250,9 @@ Studied Prisma query optimization — N+1 problem and relation loading strategie
 Reviewed t-SNE vs UMAP for high-dimensional embedding visualization.
 
 ---
+
+## August 12, 2026 — Low-Latency C++
+
+Profiled memory allocator overhead — switched inner loop to arena allocation pattern.
+
+---
