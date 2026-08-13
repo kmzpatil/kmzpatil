@@ -256,3 +256,9 @@ Reviewed t-SNE vs UMAP for high-dimensional embedding visualization.
 Profiled memory allocator overhead — switched inner loop to arena allocation pattern.
 
 ---
+
+## August 13, 2026 — Competitive Programming
+
+Revisited offline LCA using Euler tour + sparse table for range minimum queries.
+
+---
