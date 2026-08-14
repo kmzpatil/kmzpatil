@@ -262,3 +262,9 @@ Profiled memory allocator overhead — switched inner loop to arena allocation p
 Revisited offline LCA using Euler tour + sparse table for range minimum queries.
 
 ---
+
+## August 14, 2026 — AI & Multi-Agent Systems
+
+Explored RLHF vs DPO trade-offs for fine-tuning instruction-following behavior.
+
+---
