@@ -286,3 +286,9 @@ Explored FastAPI dependency injection patterns for modular API route organizatio
 Analyzed feature engineering for time-series: rolling volatility and IQR transforms.
 
 ---
+
+## August 18, 2026 — Low-Latency C++
+
+Reviewed lock-free queue patterns using `std::atomic` and memory ordering semantics.
+
+---
