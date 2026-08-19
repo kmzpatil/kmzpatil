@@ -292,3 +292,9 @@ Analyzed feature engineering for time-series: rolling volatility and IQR transfo
 Reviewed lock-free queue patterns using `std::atomic` and memory ordering semantics.
 
 ---
+
+## August 19, 2026 — Competitive Programming
+
+Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
+
+---
