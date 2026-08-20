@@ -298,3 +298,9 @@ Reviewed lock-free queue patterns using `std::atomic` and memory ordering semant
 Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
 
 ---
+
+## August 20, 2026 — AI & Multi-Agent Systems
+
+Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
+
+---
