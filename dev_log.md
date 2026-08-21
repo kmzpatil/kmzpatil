@@ -304,3 +304,9 @@ Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage grap
 Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
 
 ---
+
+## August 21, 2026 — Quant & DeFi
+
+Reviewed Uniswap V3 concentrated liquidity math and tick-based price range encoding.
+
+---
