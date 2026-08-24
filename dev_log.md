@@ -322,3 +322,9 @@ Reviewed PostgreSQL EXPLAIN ANALYZE output — identified sequential scan vs ind
 Reviewed LSTM vanishing gradient problem — why gating mechanisms solve it.
 
 ---
+
+## August 24, 2026 — Low-Latency C++
+
+Studied cache-oblivious algorithms and their impact on branch predictor performance.
+
+---
