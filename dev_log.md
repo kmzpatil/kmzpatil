@@ -334,3 +334,9 @@ Studied cache-oblivious algorithms and their impact on branch predictor performa
 Solved a segment tree with lazy propagation problem — range assign and range sum.
 
 ---
+
+## August 26, 2026 — AI & Multi-Agent Systems
+
+Reviewed LangGraph state machine patterns for orchestrating parallel agent branches.
+
+---
