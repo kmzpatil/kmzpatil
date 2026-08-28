@@ -340,3 +340,9 @@ Solved a segment tree with lazy propagation problem — range assign and range s
 Reviewed LangGraph state machine patterns for orchestrating parallel agent branches.
 
 ---
+
+## August 28, 2026 — Full Stack Engineering
+
+Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
+
+---
