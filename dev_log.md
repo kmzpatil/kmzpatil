@@ -352,3 +352,9 @@ Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
 Studied Optuna TPE sampler — how it models hyperparameter distributions.
 
 ---
+
+## August 29, 2026 — Machine Learning
+
+Studied Optuna TPE sampler — how it models hyperparameter distributions.
+
+---
