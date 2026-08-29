@@ -346,3 +346,9 @@ Reviewed LangGraph state machine patterns for orchestrating parallel agent branc
 Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
 
 ---
+
+## August 29, 2026 — Machine Learning
+
+Studied Optuna TPE sampler — how it models hyperparameter distributions.
+
+---
