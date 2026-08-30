@@ -358,3 +358,9 @@ Studied Optuna TPE sampler — how it models hyperparameter distributions.
 Studied Optuna TPE sampler — how it models hyperparameter distributions.
 
 ---
+
+## August 30, 2026 — Low-Latency C++
+
+Analyzed false sharing in multithreaded order books — padding structs to 64-byte alignment.
+
+---
