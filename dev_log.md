@@ -364,3 +364,9 @@ Studied Optuna TPE sampler — how it models hyperparameter distributions.
 Analyzed false sharing in multithreaded order books — padding structs to 64-byte alignment.
 
 ---
+
+## August 31, 2026 — Competitive Programming
+
+Reviewed Knuth-Yao DP optimization for convex cost functions.
+
+---
