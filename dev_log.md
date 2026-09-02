@@ -376,3 +376,9 @@ Reviewed Knuth-Yao DP optimization for convex cost functions.
 Explored multi-head attention complexity trade-offs in transformer inference.
 
 ---
+
+## September 02, 2026 — Quant & DeFi
+
+Analyzed IMC Prosperity market-making strategy — bid-ask spread optimization.
+
+---
