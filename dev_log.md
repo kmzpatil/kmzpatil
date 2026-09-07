@@ -406,3 +406,9 @@ Explored `std::memory_order_acquire/release` for building wait-free data structu
 Analyzed amortized complexity of DSU with path compression and union by rank.
 
 ---
+
+## September 07, 2026 — AI & Multi-Agent Systems
+
+Read about retrieval-augmented generation (RAG) chunking strategies for long documents.
+
+---
