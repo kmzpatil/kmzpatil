@@ -412,3 +412,9 @@ Analyzed amortized complexity of DSU with path compression and union by rank.
 Read about retrieval-augmented generation (RAG) chunking strategies for long documents.
 
 ---
+
+## September 08, 2026 — Quant & DeFi
+
+Read about cross-venue statistical arbitrage using cointegrated asset pairs.
+
+---
