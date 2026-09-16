@@ -460,3 +460,9 @@ Explored Bellman-Ford on exchange rate graphs for detecting arbitrage cycles.
 Analyzed JWT vs session token security — refresh token rotation best practices.
 
 ---
+
+## September 16, 2026 — Machine Learning
+
+Read about EfficientNet compound scaling — depth, width, and resolution coefficients.
+
+---
