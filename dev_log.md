@@ -472,3 +472,9 @@ Read about EfficientNet compound scaling — depth, width, and resolution coeffi
 Read about DPDK (Data Plane Development Kit) for kernel-bypass networking in HFT.
 
 ---
+
+## September 18, 2026 — Competitive Programming
+
+Studied Li Chao tree for dynamic convex hull trick on online queries.
+
+---
