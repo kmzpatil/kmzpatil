@@ -484,3 +484,9 @@ Studied Li Chao tree for dynamic convex hull trick on online queries.
 Studied function-calling schemas in OpenAI and Gemini APIs for structured agent output.
 
 ---
+
+## September 20, 2026 — Quant & DeFi
+
+Reviewed EIP-1559 fee mechanism and miner-extractable value (MEV) implications.
+
+---
