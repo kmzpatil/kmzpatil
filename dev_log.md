@@ -502,3 +502,9 @@ Reviewed WebSocket connection pooling strategies for real-time dashboard updates
 Studied ensemble diversity — why combining EfficientNet and ResNet improves recall.
 
 ---
+
+## September 23, 2026 — Low-Latency C++
+
+Studied CPU prefetching strategies to optimize hot paths in the matching engine.
+
+---
