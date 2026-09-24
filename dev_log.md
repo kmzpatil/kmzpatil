@@ -508,3 +508,9 @@ Studied ensemble diversity — why combining EfficientNet and ResNet improves re
 Studied CPU prefetching strategies to optimize hot paths in the matching engine.
 
 ---
+
+## September 24, 2026 — Competitive Programming
+
+Practiced 2-SAT formulation for scheduling constraint satisfaction problems.
+
+---
