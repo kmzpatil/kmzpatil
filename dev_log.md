@@ -526,3 +526,9 @@ Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
 Studied pairs trading using Ornstein-Uhlenbeck mean-reversion process.
 
 ---
+
+## September 27, 2026 — Full Stack Engineering
+
+Studied Prisma query optimization — N+1 problem and relation loading strategies.
+
+---
