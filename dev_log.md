@@ -562,3 +562,9 @@ Explored RLHF vs DPO trade-offs for fine-tuning instruction-following behavior.
 Analyzed flash loan mechanics and atomic transaction composability in DeFi.
 
 ---
+
+## October 03, 2026 — Full Stack Engineering
+
+Explored FastAPI dependency injection patterns for modular API route organization.
+
+---
