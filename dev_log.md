@@ -568,3 +568,9 @@ Analyzed flash loan mechanics and atomic transaction composability in DeFi.
 Explored FastAPI dependency injection patterns for modular API route organization.
 
 ---
+
+## October 04, 2026 — Machine Learning
+
+Analyzed feature engineering for time-series: rolling volatility and IQR transforms.
+
+---
