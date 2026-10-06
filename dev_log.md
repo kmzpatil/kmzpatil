@@ -580,3 +580,9 @@ Analyzed feature engineering for time-series: rolling volatility and IQR transfo
 Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
 
 ---
+
+## October 06, 2026 — Competitive Programming
+
+Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
+
+---
