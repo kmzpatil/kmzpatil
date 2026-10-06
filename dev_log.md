@@ -574,3 +574,9 @@ Explored FastAPI dependency injection patterns for modular API route organizatio
 Analyzed feature engineering for time-series: rolling volatility and IQR transforms.
 
 ---
+
+## October 06, 2026 — Competitive Programming
+
+Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
+
+---
