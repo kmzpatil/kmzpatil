@@ -586,3 +586,9 @@ Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage grap
 Practiced Bellman-Ford on negative-cycle detection for triangular arbitrage graphs.
 
 ---
+
+## October 07, 2026 — AI & Multi-Agent Systems
+
+Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
+
+---
