@@ -628,3 +628,9 @@ Reviewed LangGraph state machine patterns for orchestrating parallel agent branc
 Reviewed LangGraph state machine patterns for orchestrating parallel agent branches.
 
 ---
+
+## October 14, 2026 — Quant & DeFi
+
+Studied Black-Scholes Greeks — delta hedging and gamma scalping intuition.
+
+---
