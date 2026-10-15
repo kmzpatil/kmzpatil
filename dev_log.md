@@ -634,3 +634,9 @@ Reviewed LangGraph state machine patterns for orchestrating parallel agent branc
 Studied Black-Scholes Greeks — delta hedging and gamma scalping intuition.
 
 ---
+
+## October 15, 2026 — Full Stack Engineering
+
+Studied multi-tenant RBAC patterns with row-level security in PostgreSQL.
+
+---
