@@ -682,3 +682,9 @@ Explored React Server Components vs Client Components trade-offs in Next.js 14.
 Analyzed class imbalance handling: SMOTE vs majority batching vs focal loss.
 
 ---
+
+## October 23, 2026 — Low-Latency C++
+
+Explored `std::memory_order_acquire/release` for building wait-free data structures.
+
+---
