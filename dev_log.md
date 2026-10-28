@@ -712,3 +712,9 @@ Read about cross-venue statistical arbitrage using cointegrated asset pairs.
 Read about HTTP/2 multiplexing and how it reduces latency for API-heavy apps.
 
 ---
+
+## October 28, 2026 — Machine Learning
+
+Explored HDBSCAN clustering — density reachability and minimum cluster size.
+
+---
