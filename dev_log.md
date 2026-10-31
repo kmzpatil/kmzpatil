@@ -730,3 +730,9 @@ Benchmarked `std::map` vs flat sorted arrays for price-time priority order match
 Worked through a flow network problem using Dinic's algorithm with BFS layering.
 
 ---
+
+## October 31, 2026 — AI & Multi-Agent Systems
+
+Analyzed Groq's LPU architecture and why it achieves lower token latency than GPUs.
+
+---
