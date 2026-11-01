@@ -736,3 +736,9 @@ Worked through a flow network problem using Dinic's algorithm with BFS layering.
 Analyzed Groq's LPU architecture and why it achieves lower token latency than GPUs.
 
 ---
+
+## November 01, 2026 — Quant & DeFi
+
+Explored Bellman-Ford on exchange rate graphs for detecting arbitrage cycles.
+
+---
