@@ -742,3 +742,9 @@ Analyzed Groq's LPU architecture and why it achieves lower token latency than GP
 Explored Bellman-Ford on exchange rate graphs for detecting arbitrage cycles.
 
 ---
+
+## November 03, 2026 — Machine Learning
+
+Read about EfficientNet compound scaling — depth, width, and resolution coefficients.
+
+---
