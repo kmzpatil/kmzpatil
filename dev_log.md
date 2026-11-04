@@ -754,3 +754,9 @@ Read about EfficientNet compound scaling — depth, width, and resolution coeffi
 Read about EfficientNet compound scaling — depth, width, and resolution coefficients.
 
 ---
+
+## November 04, 2026 — Low-Latency C++
+
+Read about DPDK (Data Plane Development Kit) for kernel-bypass networking in HFT.
+
+---
