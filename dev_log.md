@@ -784,3 +784,9 @@ Reviewed EIP-1559 fee mechanism and miner-extractable value (MEV) implications.
 Reviewed WebSocket connection pooling strategies for real-time dashboard updates.
 
 ---
+
+## November 10, 2026 — Low-Latency C++
+
+Studied CPU prefetching strategies to optimize hot paths in the matching engine.
+
+---
