@@ -802,3 +802,9 @@ Studied CPU prefetching strategies to optimize hot paths in the matching engine.
 Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
 
 ---
+
+## November 12, 2026 — AI & Multi-Agent Systems
+
+Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
+
+---
