@@ -808,3 +808,9 @@ Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
 Reviewed KV-cache eviction policies in vLLM for high-throughput LLM serving.
 
 ---
+
+## November 13, 2026 — Quant & DeFi
+
+Studied pairs trading using Ornstein-Uhlenbeck mean-reversion process.
+
+---
