@@ -826,3 +826,9 @@ Studied Prisma query optimization — N+1 problem and relation loading strategie
 Reviewed t-SNE vs UMAP for high-dimensional embedding visualization.
 
 ---
+
+## November 17, 2026 — Competitive Programming
+
+Revisited offline LCA using Euler tour + sparse table for range minimum queries.
+
+---
