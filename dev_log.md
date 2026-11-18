@@ -832,3 +832,9 @@ Reviewed t-SNE vs UMAP for high-dimensional embedding visualization.
 Revisited offline LCA using Euler tour + sparse table for range minimum queries.
 
 ---
+
+## November 18, 2026 — AI & Multi-Agent Systems
+
+Explored RLHF vs DPO trade-offs for fine-tuning instruction-following behavior.
+
+---
