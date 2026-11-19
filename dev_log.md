@@ -838,3 +838,9 @@ Revisited offline LCA using Euler tour + sparse table for range minimum queries.
 Explored RLHF vs DPO trade-offs for fine-tuning instruction-following behavior.
 
 ---
+
+## November 19, 2026 — Quant & DeFi
+
+Analyzed flash loan mechanics and atomic transaction composability in DeFi.
+
+---
