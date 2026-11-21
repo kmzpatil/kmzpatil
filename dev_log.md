@@ -856,3 +856,9 @@ Explored FastAPI dependency injection patterns for modular API route organizatio
 Analyzed feature engineering for time-series: rolling volatility and IQR transforms.
 
 ---
+
+## November 21, 2026 — Machine Learning
+
+Analyzed feature engineering for time-series: rolling volatility and IQR transforms.
+
+---
