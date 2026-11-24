@@ -868,3 +868,9 @@ Analyzed feature engineering for time-series: rolling volatility and IQR transfo
 Reviewed lock-free queue patterns using `std::atomic` and memory ordering semantics.
 
 ---
+
+## November 24, 2026 — AI & Multi-Agent Systems
+
+Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
+
+---
