@@ -874,3 +874,9 @@ Reviewed lock-free queue patterns using `std::atomic` and memory ordering semant
 Studied ReAct loop internals — how thought/action/observation cycles handle tool calls.
 
 ---
+
+## November 25, 2026 — Quant & DeFi
+
+Reviewed Uniswap V3 concentrated liquidity math and tick-based price range encoding.
+
+---
