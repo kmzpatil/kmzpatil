@@ -886,3 +886,9 @@ Reviewed Uniswap V3 concentrated liquidity math and tick-based price range encod
 Reviewed PostgreSQL EXPLAIN ANALYZE output — identified sequential scan vs index scan.
 
 ---
+
+## November 27, 2026 — Machine Learning
+
+Reviewed LSTM vanishing gradient problem — why gating mechanisms solve it.
+
+---
